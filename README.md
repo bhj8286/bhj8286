@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)	
+<img src= "https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=red"?>
 Hi! I'm hojin 👋
 
 
