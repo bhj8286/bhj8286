@@ -1,7 +1,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img alt = "3.1 Python" height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"> pytorch
 Hi! I'm hojin 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkssud8150&theme=nord_dark)
+
 
 <!--
 **bhj8286/bhj8286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
