@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-#3776ABstyle=flat-square&logo=python&logoColor=blue"/>
-
+(https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+	
 Hi! I'm hojin 👋
 
 
