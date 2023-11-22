@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=All%20I%20wanna%20do&fontColor=_custom_gradient&fontSize=90)
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src= "https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src= "https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/nike-111111?style=flat-square&logo=nike&logoColor=white"> <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"> <img src="https://img.shields.io/badge/apple-000000?style=flat-square&logo=apple&logoColor=white">
+
 
 
 Hi! I'm hojin 👋
