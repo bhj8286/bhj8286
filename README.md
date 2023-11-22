@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi!%20I'm%20hojin&fontColor=d6ace6&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=All%20I%20wanna%20do&fontColor=_custom_gradient&fontSize=90)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src= "https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=white"/>
 
